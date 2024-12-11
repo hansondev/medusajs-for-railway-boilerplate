@@ -20,12 +20,11 @@ export default async function Nav() {
           </div>
 
           <div className="flex items-center h-full">
-            <LocalizedClientLink
-              href="/"
-              className="txt-compact-xlarge-plus hover:text-ui-fg-base uppercase"
-            >
-              Medusa Store
-            </LocalizedClientLink>
+            <img
+              src="https://res.cloudinary.com/dfsp7luel/image/upload/c_thumb,w_200,g_face/v1733928594/logoipsum-logo-6_adh9b1.png"
+              width="100px"
+              height="100px"
+            />
           </div>
 
           <div className="flex items-center gap-x-6 h-full flex-1 basis-0 justify-end">
