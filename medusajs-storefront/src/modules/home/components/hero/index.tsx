@@ -19,7 +19,7 @@ const Hero = () => {
             Go to store now to view products available in
           </Heading>
         </span>
-        <Button className="btn-primary" href="https://funkyton.com/medusajs-2-0-is-finally-here/" target="_blank">
+        <Button className="btn-primary">
           Visit store
         </Button>
         <a
